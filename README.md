@@ -19,6 +19,10 @@
 
 ---
 
+## ⚙️ Dependencies
+- [ImageOnMap](https://github.com/CzechPMDevs/ImageOnMap/tree/main) by [CzechPMDevs](https://github.com/CzechPMDevs)
+---
+
 ## 🛠️ Configuration Files
 
 ### `config.yml`
