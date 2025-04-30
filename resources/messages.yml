@@ -1,0 +1,4 @@
+fail: '§7You failed the Captcha'
+join: '§7Please type the text on the map in order to verify you''re a human being'
+success: '§7You completed the Captcha'
+blocked: '§cYou cannot do that operation.'

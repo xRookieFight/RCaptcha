@@ -1,0 +1,12 @@
+name: RCaptcha
+version: 1.0.0
+api: 5.0.0
+main: xRookieFight\RCaptcha\Main
+author: xRookieFight
+
+depend:
+ - ImageOnMap
+
+permissions:
+  captcha.override:
+    default: op

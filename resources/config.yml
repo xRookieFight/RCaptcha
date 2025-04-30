@@ -1,0 +1,10 @@
+captcha-settings:
+  captcha-protected-commands:
+    - 'op'
+  held-slot: 1 # 1 is first slot, -1 is offhand
+  mode: FIRSTJOIN # FIRSTJOIN, ALL, NONE
+  op-override: false
+  permission-override: false
+  disable-damage: true
+  disable-interact: true
+  blindness-effect: true
